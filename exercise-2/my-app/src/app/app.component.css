@@ -1,0 +1,16 @@
+.badge {
+    font-weight: bold;
+    margin-right: 10px;
+    padding: 4px 8px;
+    border-radius: 5px;
+    color: white;
+  }
+  
+  .flash .badge {
+    background-color: orange;
+  }
+  
+  .lantern .badge {
+    background-color: green;
+  }
+  
